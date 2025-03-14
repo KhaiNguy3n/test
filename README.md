@@ -4,10 +4,10 @@
 Dự án **ptud-gk-de-2** là một ứng dụng quản lý công việc (Task Management) sử dụng Django. Hệ thống cho phép người dùng (user) tạo công việc, theo dõi trạng thái hoàn thành và thời gian hoàn thành. Quản trị viên (admin) có thể quản lý toàn bộ công việc của các user.
 
 ## 👤 Thông tin cá nhân
-- **Họ và tên:** Xuan-Dien Tran
-- **Email:** [xuandienk4@gmail.com]
-- **MSSV:** 22650601
-- **GitHub:** [https://github.com/xndien2004]
+- **Họ và tên:** Nguyễn Khải
+- **Email:** [khaikaka555@gmail.com]
+- **MSSV:** 20025651
+- **GitHub:** [https://github.com/KhaiNguy3n/ptud-gk-de-2]
 
 ## ✨ Tính năng chính
 - Đăng nhập và phân quyền (Admin, User)
@@ -39,7 +39,7 @@ ptud-gk-de-2/
 
 ### 1. Clone dự án từ GitHub
 ```bash
-git clone https://github.com/xndien2004/ptud-gk-de-2.git
+git clone https://github.com/KhaiNguy3n/ptud-gk-de-2
 cd ptud-gk-de-2
 ```
 
